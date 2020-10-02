@@ -22,4 +22,4 @@ machine learning model that is able to estimate how much solar energy is going t
 the solar plants in Oklahoma. See the figure below, where the red points are the solar plants and the blue
 points are locations for which meteorological predictions are provided (by GFS).
 
-![alt text](https://github.com/[DanielLapido]/[Solar_energy_production]/blob/[branch]/grid.jpg?raw=true)
+![](https://github.com/DanielLapido/Solar_energy_production/blob/main/grid.jpg)
